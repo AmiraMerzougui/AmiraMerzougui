@@ -35,6 +35,5 @@ These repositories represent my current focus and core competencies.
 
 ### Connect
 
-*   **LinkedIn:** [Your LinkedIn Profile URL](Your LinkedIn Profile URL)
+*   **LinkedIn:** [https://www.linkedin.com/in/amira-merzougui](https://www.linkedin.com/in/amira-merzougui)
 *   **Email:** [amira.merzougui6@gmail.com](mailto:amira.merzougui6@gmail.com)
-*   **CV:** [Link to your PDF CV hosted online, e.g., on Google Drive or your own site]
