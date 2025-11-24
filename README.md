@@ -1,35 +1,38 @@
-# Amira Merzougui
+# Hi, I'm Amira 👋
 
-**Industrial IT & Automation Engineering Student | Industry 4.0 Enthusiast**
+<a href="[YOUR LINKEDIN URL]">
+  <img align="right" width="250" src="[URL TO YOUR PROFESSIONAL PHOTO]" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amira-merzougui)
+I'm a third-year Industrial IT and Automation Engineering student from Tunisia, but my real passion is building the core intelligence behind smart systems. My journey started in industrial automation, but I quickly discovered I was more fascinated by building the "brains" of a system—the control algorithms, the computer vision, and the embedded hardware—than the factory floor itself.
 
-INSAT student passionate about leveraging automation, IoT, AI, and Digital Twins for smart and sustainable industries. Focused on Industry 4.0 and the future of manufacturing.
+This has led me to focus on **Robotics**, **Human-Computer Interaction**, and **Embedded Systems**. I love the challenge of taking a complex problem and building a complete solution, from the circuit board up to the AI model.
 
-## 🚀 Skills & Focus
+---
 
-*   **Focus:** Industry 4.0, Embedded Systems, ML, Smart Manufacturing, IIoT, AI-powered Automation.
-*   **Programming:** Embedded C, C++, Python (for ML), Java, Assembly.
-*   **Learning:** Embedded Linux, ML for Embedded Systems.
-*   **Technologies:** Industrial Automation, Microcontrollers.
-*    **Attributes:** problem-solving, leadership, team-oriented, proactive.
+### 🛠️ What I'm Currently Building
 
-## 💡 Key Projects
+I learn best by doing. Here are the projects I'm currently focused on:
 
-*   **Smart Industrial Zones (TSYP Challenge 2024) - Team Lead:**  Digital twin ecosystem for smart factories (real-time monitoring, simulation, VR training). *Impact:* Improved efficiency, reduced downtime, enhanced safety.
-*   **Digital Twin & IoT Prototype (IASTAM Challenge):** Building digital twin (Dataverse) & IoT prototype (ESP32).  *Impact:* Proved feasibility for proactive building management.
-*   **Line Follower Robot:** Design, build, and programming for a robotics competition. *Impact:* Hands-on robotics & embedded systems experience.
-*   **AI-Powered Industrial Automation:**  R&D on AI for predictive maintenance, anomaly detection, and optimization.
-*   **Ongoing Personal Project:**  [Briefly describe the project and its goal/impact - 1-2 sentences MAX]
+- 🚗 **Driver Wellness & Safety System:** An IoT system that uses computer vision and biometric sensors to monitor a driver's state and provide real-time safety advice. A deep dive into applied HCI and embedded AI.
+- 🛰️ **Autonomous CubeSat Power System:** My team's project for the IEEE TSYP13 Challenge. We're designing an AI-driven system to predict and prevent power failures in a 3U CubeSat, operating entirely without ground control.
 
-##  IEEE Leadership
+---
 
-*   **IEEE WIE INSAT:** Vice Chair & Technical Activities Lead - Organized workshops & STEM outreach. *Impact:* Empowered students, fostered innovation.
-*   **Active Member:** IEEE RAS & PES - INSAT Chapters (automation, robotics, power electronics projects).
+### 💻 Tech & Tools I Use
 
-## 🤝 Connect
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https.img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Seeking collaborations, internships, and research opportunities in automation, AI, embedded systems, and smart manufacturing.
+---
 
-*   **Email:** merzouguiamira78@gmail.com
-*   **LinkedIn:** www.linkedin.com/in/amira-merzougui
+### 📫 How to Reach Me
+
+- **LinkedIn:** [Your LinkedIn Profile URL](Your LinkedIn Profile URL)
+- **Email:** merzouguiamira78@gmail.com
