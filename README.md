@@ -1,6 +1,6 @@
 # Hi, I'm Amira
 
-⚙️ Embedded Systems & Hardware Engineering student at INSAT (Tunisia)
+⚙️ Embedded Systems & Hardware Engineering student
 
 Currently focused on:
 - PCB Design
@@ -38,6 +38,8 @@ Featured Interests
 
 
 📫 Reach me at  
-[Email](amira.merzougui6@gmail.com)  
+[Email](amira.merzougui6@gmail.com) 
+
 [LinkedIn](https://www.linkedin.com/in/amira-merzougui/)
+
 [Portfolio](https://your-notion-portfolio-link)
