@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Amira%20Merzougui&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20%26%20Hardware%20Engineering&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=a78bfa&center=true&vCenter=true&width=500&lines=Embedded+Systems+%26+Hardware+Engineering)
 
-</div>
+# Hi, I'm Amira
 
-<br/>
-
-<div align="center">
-
-```
-⚙️  Building at the intersection of hardware and intelligence
-```
+⚙️ *Building at the intersection of hardware and intelligence*
 
 </div>
 
@@ -22,9 +16,9 @@
 
 <div align="center">
 
-| 🔧 PCB Design | 💻 MCU Programming | 🤖 Robotics & Embedded Systems |
+| 🔧 PCB Design | 💻 MCU Programming | 🤖 Robotics &amp; Embedded Systems |
 |:---:|:---:|:---:|
-| Designing production-ready boards | STM32 · ESP32 · Arduino | Autonomous & intelligent systems |
+| Designing production-ready boards | STM32 · ESP32 · Arduino | Autonomous &amp; intelligent systems |
 
 </div>
 
@@ -40,17 +34,17 @@
 
 **Embedded Systems**
 
-![STM32](https://img.shields.io/badge/STM32%20HAL-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-7A5C2E?style=for-the-badge&logo=freertos&logoColor=white)
 
-**Hardware & Design**
+**Hardware &amp; Design**
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
-**Communication & IoT Protocols**
+**Communication &amp; IoT Protocols**
 
 ![UART](https://img.shields.io/badge/UART-2C2C54?style=for-the-badge&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-1A1A2E?style=for-the-badge&logoColor=white)
@@ -87,6 +81,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=99999&color=a78bfa&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%A4%8D)
 
 </div>
